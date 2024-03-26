@@ -10,4 +10,5 @@ Just makes a new command that lets you type vim to open neovim for all the peopl
 Just replaces the vim command with the nvim one so you can just use it how you normally would e.g
 
 `vim` to open the neovim editor
+
 `vim path/to/a/file` to open a specific file in neovim
