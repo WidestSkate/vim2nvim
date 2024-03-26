@@ -5,7 +5,6 @@ Just makes a new command that lets you type vim to open neovim for all the peopl
 `git clone https://github.com/WidestSkate/vim2nvim.git` Clones the Repo
 
 `sudo gcc vim2nvim/vim2nvim.c -o /bin/vim` Creates the binary in the bin dir 
-https://github.com/settings/accessibility
 # Usage 
 
 Just replaces the vim command with the nvim one so you can just use it how you normally would e.g
